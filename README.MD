@@ -1,5 +1,4 @@
 ## 架构师学习路线（Java）
----
 
 ### 编程基础
 
@@ -102,7 +101,6 @@ File及相关类，字节流InputStream和OutputStream，字符流Reader和Write
 JDK1.5、JDK1.6、JDK1.7、JDK1.8每个版本都比前面一个版本添加了哪些新特性，进行了哪些提升
 
 ## 数据库相关
----
 
 #### 理论基础
 
@@ -137,7 +135,6 @@ JDBC Connection、Statement、PreparedStatement、CallableStatement、ResultSet�
 ORM，DAO
 
 ### JavaWeb核心技术（包括部分前端）
----
 
 Html5/Css/JS原生/jQuery
 
@@ -180,7 +177,6 @@ EJB
 其他需要了解的，如：管理JMX、安全JCCA/JAAS、集成JCA、通信JNDI/JMS/JavaMain/JAF、SSI技术
 
 ### 主流框架及工具
----
 
 Struts1/Struts2
 
@@ -213,7 +209,7 @@ Web服务器：Tomcat、JBoss、Jetty、Resin、WebLogic、WebSphere等
 构建工具：Ant/Maven
 
 ### JavaWeb系统设计与架构
----
+
 Java设计模式
 
 JAVA与UML建模
@@ -227,7 +223,6 @@ JAVA与UML建模
 大型网站负载均衡、系统调优等
 
 ### More
----
 
 #### 排错能力
 
